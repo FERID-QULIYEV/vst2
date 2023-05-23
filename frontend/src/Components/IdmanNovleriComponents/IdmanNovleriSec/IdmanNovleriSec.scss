@@ -1,0 +1,112 @@
+.idmannovlerisec{
+    height: 100%;
+    .idmannov_sec_card{
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+       
+        .nov_card_1{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+            
+            .card{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                .idmanadi{
+                    width: 150px;
+                    font-size: 20px;
+                    text-align: center;
+                    color: #3e8e41;
+                }
+                .federasiya{
+                    color: gray;
+                    width: 150px;
+                    text-align: center;
+                }
+
+            }
+        }
+        .nov_card_2{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+            
+            .card{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                .idmanadi{
+                    width: 150px;
+                    font-size: 20px;
+                    text-align: center;
+                    color: #3e8e41;
+                }
+                .federasiya{
+                    color: gray;
+                    width: 150px;
+                    text-align: center;
+                }
+
+            }
+        }
+        .nov_card_3{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            
+            
+            .card{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                .idmanadi{
+                    width: 150px;
+                    font-size: 20px;
+                    text-align: center;
+                    color: #3e8e41;
+                }
+                .federasiya{
+                    color: gray;
+                    width: 150px;
+                    text-align: center;
+                }
+
+            }
+        }
+        .nov_card_4{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 50px;
+            
+            .card{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                .idmanadi{
+                    width: 150px;
+                    font-size: 20px;
+                    text-align: center;
+                    color: #3e8e41;
+                }
+                .federasiya{
+                    color: gray;
+                    width: 150px;
+                    text-align: center;
+                }
+               
+
+            }
+
+        }
+    }
+}

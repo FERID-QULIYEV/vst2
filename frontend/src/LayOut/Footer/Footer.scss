@@ -1,0 +1,27 @@
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(247, 246, 246);
+display: flex;
+align-items: center;
+justify-content: center;
+    .foot {
+        .foot_element {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            .foot_logo{
+                .footlogo{
+                    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                }
+            }
+            .foot_disclosure{
+                p{
+                    font-size: 30px;
+                    font-style: italic;
+                }
+            }
+        }
+    }
+}
